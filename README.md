@@ -3,7 +3,7 @@ Plan a day's workload
 
 ## Description
 
-This application to helps plan a day's workload. The working day (9am-5pm) is broken into hourly slots that have been created dynamically using jquery.
+This application is a day planner. The working day (9am-5pm) is broken into hourly slots that have been created dynamically using jquery.
 
 The deployed application can be found at:
 
@@ -22,6 +22,5 @@ Here is a screenshot of the deployed application (taken after 6pm unfortunately 
 ## License
 
 Please refer to the license in the repo.
-
 
 ---
