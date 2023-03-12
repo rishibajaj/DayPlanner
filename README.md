@@ -17,7 +17,7 @@ The timeblock will change colour depending on the time of day - timeblocks in th
 
 Here is a screenshot of the deployed application (taken after 6pm unfortunately so the different colours don't show):
 
-![Screenshot of Work Day Scheduler](./assets/screenshot/ScreenShot_DayPlanner.png)
+![Screenshot of Work Day Scheduler](./assets/ScreenShot_DayPlanner.png)
 
 ## License
 
